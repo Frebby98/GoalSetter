@@ -3,10 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/com_facebook_blue">
+    android:background="@color/colorBlack">
 
 
     <android.support.v7.widget.RecyclerView
+        android:background="@color/colorBlack"
         android:id="@+id/goal_recycler"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -18,9 +19,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
-
         <include layout="@layout/item_goal" />
-
     </android.support.v7.widget.RecyclerView>
 
     <android.support.design.widget.FloatingActionButton
