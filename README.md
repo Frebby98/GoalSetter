@@ -10,5 +10,6 @@ This was a collaborative project inspired because of the need to aid people keep
 ## Images
 <img src="/goal_setter_screenshots/goalsetterLogin.jpeg" width="180" height="360" /> | <img src="/goal_setter_screenshots/goalsetterLogin.jpeg" width="180" height="360" />
 <img src="/goal_setter_screenshots/goalsetterAddGoals.jpeg" width="180" height="360" /> | <img src="/goal_setter_screenshots/goalsetterItems.jpeg" width="180" height="360" />
+<img src="/goal_setter_screenshots/goalsetterAllGoals.jpeg" width="180" height="360" /> | <img src="/goal_setter_screenshots/goalsetterAddGoals.jpeg" width="180" height="360" />
 ## Version 
 1.0
